@@ -1,0 +1,1 @@
+# core-wcf-endpoints-playground
